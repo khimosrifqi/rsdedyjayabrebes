@@ -32,6 +32,14 @@
 #carouselExampleDark {
         background-size: cover;
 }
+/*rawat inap*/
+
+section #ranap .kelasranap{
+        background-size: cover;
+        width: 600px;
+        height: 450px;
+
+}
 section {
 	padding-top: 4rem;
 }
@@ -298,5 +306,6 @@ section #ranap .listranap .border {
         background-color: #FD4E0A;
         text-align: left;
         padding: 20px 10px;
+
 
 }
